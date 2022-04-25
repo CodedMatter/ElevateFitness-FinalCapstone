@@ -4,7 +4,6 @@ _Duration: About 12 Days_
 
 ## Description
 
-Project description
    This application tracks the essential elements of health, things like food intake, water intake, and weight.
 
    Special Notes:
